@@ -1,0 +1,27 @@
+body {
+  background-color: lightgrey;
+}
+
+h1{
+  text-align: center;
+  float: center;
+  font: 50px Verdana, sans-serif;
+  color: white;
+}
+
+button {
+    width:150px;
+    height: 40px;
+    float: middle;
+    margin:auto;
+    display:block;
+}
+
+<!-- Quote display -->
+
+div {
+  text-align: center;
+  font: 25px Verdana, sans-serif;
+  color: white;
+  padding: 35px;
+}
